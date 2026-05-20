@@ -1,3 +1,5 @@
+;; -*- clojure -*-
+
 (const rl (@import "raylib"))
 
 (defn ^anyerror!void main []
