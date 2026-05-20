@@ -1,6 +1,6 @@
-# liz-raylib-hello-world
+# liz raylib hello world
 
-Using [raylib-zig](https://github.com/raylib-zig/raylib-zig).
+Using [raylib-zig](https://github.com/raylib-zig/raylib-zig) and [liz](https://github.com/dundalek/liz) (Lisp transpiles to zig.)
 
 ## Run
 
